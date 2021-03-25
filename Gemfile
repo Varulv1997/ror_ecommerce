@@ -36,7 +36,7 @@ gem 'jbuilder'
 gem "friendly_id",     '~> 5.1.0'#, :git => "git@github.com:FriendlyId/friendly_id.git", :branch => 'rails4'
 gem "jquery-rails",    '~> 4.3.1'
 gem 'jquery-ui-rails', '~> 6.0.1'
-gem 'json',           '~> 2.1.0'
+gem 'json',           '~> 2.3.0'
 
 # gem "nifty-generators", :git => 'git://github.com/drhenner/nifty-generators.git'
 gem 'nokogiri',     '~> 1.6.5'
